@@ -18,3 +18,4 @@ match operation:
             result = num1 / num2
     case _:
         print("Invalid operation.")
+print(f"The result is: {result}")
